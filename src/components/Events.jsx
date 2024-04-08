@@ -15,6 +15,7 @@ const Events = () => {
         <button className="bg-blue-500 p-2 m-2 rounded-md hover:bg-blue-400  ">
           See Participants{" "}
         </button>
+        <span>created by 0x00056465</span>
       </div>
       <div className="m-7 p-10 bg-red-100 inline-flex items-center flex-col rounded-xl shadow-xl">
         <div className="">Events Card</div>
@@ -28,6 +29,7 @@ const Events = () => {
         <button className="bg-blue-500 p-2 m-2 rounded-md hover:bg-blue-400  ">
           See Participants{" "}
         </button>
+        <span>created by 0x00056465</span>
       </div>{" "}
       <div className="m-7 p-10 bg-red-100 inline-flex items-center flex-col rounded-xl shadow-xl">
         <div className="">Events Card</div>
@@ -41,6 +43,7 @@ const Events = () => {
         <button className="bg-blue-500 p-2 m-2 rounded-md hover:bg-blue-400  ">
           See Participants{" "}
         </button>
+        <span>created by 0x00056465</span>
       </div>
     </div>
   );
